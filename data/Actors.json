@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"yylo","characterIndex":4,"characterName":"yylo","classId":1,"equips":[5,0,0,5,0],"faceIndex":6,"faceName":"小雷表情差分","traits":[{"code":43,"dataId":11,"value":1},{"code":43,"dataId":12,"value":1},{"code":43,"dataId":13,"value":1}],"initialLevel":55,"maxLevel":99,"name":"月永雷欧","nickname":"","note":"","profile":"名誉骑士大人，擅长作曲\n现在正在因为失去了感觉很重要的记忆而烦恼"},
+{"id":2,"battlerName":"zys","characterIndex":0,"characterName":"zys","classId":2,"equips":[7,6,0,6,0],"faceIndex":4,"faceName":"小司表情差分","traits":[{"code":55,"dataId":1,"value":1},{"code":43,"dataId":14,"value":1},{"code":43,"dataId":15,"value":1}],"initialLevel":46,"maxLevel":99,"name":"朱樱司","nickname":"","note":"","profile":"地位不低但还是喜欢忙活的骑士\n每天都能搞到甜甜的新鲜水果"},
+{"id":3,"battlerName":"yylo","characterIndex":0,"characterName":"yylo","classId":3,"equips":[9,0,0,7,0],"faceIndex":0,"faceName":"勇者表情差分","traits":[],"initialLevel":55,"maxLevel":99,"name":"勇者","nickname":"","note":"","profile":"灼日光辉·勇者\n称号是妹妹取的，因此就算被说羞耻也不肯改"},
+{"id":4,"battlerName":"魔王","characterIndex":1,"characterName":"zys","classId":4,"equips":[10,0,0,8,0],"faceIndex":2,"faceName":"魔王表情差分","traits":[],"initialLevel":46,"maxLevel":99,"name":"魔王","nickname":"","note":"","profile":"今天也得努力工作的我自己......\n目前最讨厌的东西是人类"}
+]
